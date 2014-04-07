@@ -1,3 +1,4 @@
 [
-    { "caption": "Stringify: Java", "command": "stringify_java" }
+    { "caption": "Stringify: Java", "command": "stringify_java" },
+    { "caption": "De-Stringify: Java", "command": "de_stringify_java" }
 ]
